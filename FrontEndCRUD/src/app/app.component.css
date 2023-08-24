@@ -1,0 +1,35 @@
+.header{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container{
+  width: 55%;
+  height: 100vh;
+}
+
+.title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40px;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.nuevoEmpleado{
+  margin-bottom: 15px;
+}
+
+
+
